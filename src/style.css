@@ -1,5 +1,15 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+  background: rgb(103, 174, 225);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+#excuse {
+  position: absolute;
+  width: 700px;
+  margin-top: 250px;
 }
